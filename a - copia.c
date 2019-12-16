@@ -5,4 +5,3 @@ kkk
 aaaa 
 pako
 pinga
-piko
