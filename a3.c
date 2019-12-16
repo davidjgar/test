@@ -4,4 +4,3 @@ aaaas
 aaaaf
 pungu
 pisha
-qqqq
