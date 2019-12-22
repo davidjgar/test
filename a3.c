@@ -11,9 +11,12 @@ pika
 
 hotfix
 
+<<<<<<< HEAD
 
 
 MMMMMMMMMAAAAAAASSSSSSTERRRRRRRRRRRRRRRRRRRRRRRRR
+=======
+>>>>>>> refs/remotes/origin/pisto
 ttt
 
 pisto
