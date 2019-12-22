@@ -16,11 +16,8 @@ hotfix
 MMMMMMMMMAAAAAAASSSSSSTERRRRRRRRRRRRRRRRRRRRRRRRR
 ttt
 
-ttt
-
-pisto
-
 pisto
 
 pisto2
 
+pisto3
